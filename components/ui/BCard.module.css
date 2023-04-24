@@ -1,0 +1,14 @@
+.card{
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.card h1{
+    color: #1C6758;
+}
+.imag{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
